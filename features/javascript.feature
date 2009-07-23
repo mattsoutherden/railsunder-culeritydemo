@@ -5,5 +5,5 @@ Feature: JavaScript Testing with Culerity
 
   Scenario: Simple JavaScript
     When I go to the homepage
-    Then I should see "Rails Underground Rocks"
+    Then I should see "Rails Underground Rocks!"
 
